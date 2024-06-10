@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_select_units",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_select_units",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
